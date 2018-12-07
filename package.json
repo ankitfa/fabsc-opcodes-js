@@ -1,0 +1,24 @@
+{
+  "name": "fabsc-opcodes",
+  "version": "1.0.0",
+  "description": "The Fab Smart Contract opcodes map",
+  "main": "./index.json",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+  },
+  "keywords": [
+    "FAB",
+    "Fast Access Blockchain",
+    "fabcoin",
+    "smart contracts",
+    "opcodes"
+  ],
+  "author": "Fabcoin Developer Team",
+  "license": "MIT",
+  "bugs": {
+    "url": ""
+  },
+  "homepage": ""
+}
